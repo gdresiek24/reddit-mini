@@ -1,0 +1,38 @@
+header {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background-color: white;
+    padding: 10px;
+    border-bottom: 2px solid #FF5733;
+}
+
+.HeaderContent {
+    margin: 0 auto;
+    max-width: 1600px;
+    display: flex;
+    align-items: center;
+}
+
+.Logo{
+    flex: 1;
+    justify-content: flex-start;
+}
+.MobileMenu{
+    flex: 1;
+    text-align: end;
+}
+
+.MobileMenu .Dropdown {
+    position: absolute;
+    right: 10px;
+}
+
+
+@media screen and (min-width: 1140px) {
+    .mobileMenu {
+      display:none;
+    }
+  }
+
+ 

@@ -1,0 +1,12 @@
+.feed {
+    max-width: 700px;
+    min-width: 400px;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 1px;
+  }
+  
+.postLink {
+  color: black;
+  text-decoration: none;
+}

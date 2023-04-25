@@ -1,0 +1,12 @@
+
+.subredditsMenu h3 {
+    text-align: center;
+    color:#FF5733;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+
+li {
+    list-style: none;
+}
+

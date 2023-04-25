@@ -1,0 +1,10 @@
+.PostPage{
+    max-width: 700px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#loadingPost{
+    text-align: center;
+    font-size: 2rem;
+}

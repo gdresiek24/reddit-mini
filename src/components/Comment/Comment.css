@@ -1,0 +1,18 @@
+.Comment {
+    border-top: 1px solid black;
+    padding: 0 10px;
+    line-break: anywhere;
+}
+
+.Comment-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Comment-author {
+    color: #FF5733;
+}
+
+.Comment-score{
+    font-weight: bold;
+}
